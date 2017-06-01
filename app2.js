@@ -4,3 +4,4 @@ function hereGo(who) {
     console.log(who);
 }
 exports.hereGo = hereGo;
+exports.x = "ssssss";

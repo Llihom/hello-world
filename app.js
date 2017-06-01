@@ -881,3 +881,6 @@ mm.sex = "nv";
 console.log(mm.name + "   " + mm.sex);
 here.hereGo("wo");
 here.hereGo("ni");
+//相对导入是以/，./或../开头的，所有其他形式的导入都被当做非相对的
+//不知道git到底是怎么搞的
+console.log(here.x);
